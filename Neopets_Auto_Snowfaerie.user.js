@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name        Neopets Auto Snowfaerie
-// @namespace   demeiz
-// @author      demeiz
+// @namespace   Jarofgrease.captainmaxthecat.com
+// @description Auto Navigate while using snowfaerie
+// @author 		Demeiz
 // @email       admin@captainmaxthecat.com
 // @license     GNU GPL
 // @homepage    http://jarofgrease.captainmaxthecat.com
